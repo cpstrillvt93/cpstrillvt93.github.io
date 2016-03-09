@@ -1,14 +1,22 @@
 
+body {
+	background: url(images/bostonskyline.jpg); 
+	background-size: cover;
+	font-family: "Helvetica Neue"; 
+	font-weight: 100;
+	text-align: center;
+	color: #000;
+}
 
-<body>
+h1 {
+	font-size: 80px;
+	font-weight: 100;
+}
 
-<style>
-#body {background-color:rgba(208,255,237,0.3)}
-#h1	{color:rgba(255,0,0,0.3);}
-#title {color:rgba(0,255,0,0.3);}
-#p {color:rgba(255,0,0,0.3);}
+#slogan {
+	font-weight: 50;
+}
 
-
-</style>
-
-</body>
+#about {
+	padding-bottom: 10cm;
+}
