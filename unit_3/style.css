@@ -1,8 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light)
 
 
-
-
 body {
 	background: url(images/bostonskyline.jpg); 
 	background-size: cover;
@@ -15,7 +13,8 @@ body {
 h1 {
 	font-size: 80px;
 	font-weight: 100;
-	font-family: 'Shadows Into Light';
+	font-family: 'Shadows Into Light', cursive;
+
 }
 
 #slogan {
